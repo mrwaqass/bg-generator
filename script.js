@@ -1,5 +1,3 @@
-var _ = require('lodash');
-console.log(_);
 var css = document.querySelector("h3");
 var css2 = document.querySelector("h4");
 var color1 = document.querySelector(".color1");
